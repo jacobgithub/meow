@@ -711,7 +711,9 @@ hr {
 
   .tile .tile-inner {
     font-size: 0px; }
-
+  .tile-inner {
+    margin: 0 auto;
+  }
   .game-message p {
     font-size: 30px !important;
     height: 30px !important;
